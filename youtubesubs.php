@@ -4,7 +4,7 @@ Plugin Name: YouTube Subs
 Plugin URI: http://ahmadsolehin.com
 Description: Display YouTube sub button and count
 Version: 1.0.0
-Author: Brad Traversy
+Author: Ahmad Solehin
 Author URI: http://traversymedia.com
 */
 
