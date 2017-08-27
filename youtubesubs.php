@@ -5,7 +5,7 @@ Plugin URI: http://ahmadsolehin.com
 Description: Display YouTube sub button and count
 Version: 1.0.0
 Author: Ahmad Solehin
-Author URI: http://traversymedia.com
+Author URI: http://ahmadsolehin.com
 */
 
 // Exit if accessed directly
