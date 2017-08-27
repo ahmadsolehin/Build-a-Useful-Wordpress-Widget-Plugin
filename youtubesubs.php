@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: YouTube Subs
-Plugin URI: http://traversymedia.com
+Plugin URI: http://ahmadsolehin.com
 Description: Display YouTube sub button and count
 Version: 1.0.0
 Author: Brad Traversy
